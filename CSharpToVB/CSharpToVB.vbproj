@@ -67,8 +67,8 @@
     </PackageReference>
     <PackageReference Include="Microsoft.CodeAnalysis.VisualBasic.Workspaces" Version="4.2.0" />
     <PackageReference Include="Microsoft.Win32.Registry" Version="5.0.0" />
-    <PackageReference Include="NuGet.Frameworks" Version="6.2.0" />
-    <PackageReference Include="PInvoke.Windows.Core" Version="0.7.104" />
+    <PackageReference Include="NuGet.Frameworks" Version="6.3.0" />
+    <PackageReference Include="PInvoke.Windows.Core" Version="0.7.124" />
     <PackageReference Include="System.Collections.Immutable" Version="6.0.0" />
     <PackageReference Include="System.Reflection.Metadata" Version="6.0.1" />
   </ItemGroup>
